@@ -1,0 +1,15 @@
+int main()
+{
+int rows,I,j;
+Printf ("please enter the number of rows");
+scanf("%d",&rows);
+Printf("printing the pattern");
+{
+for(j=1;j<=I;j++)
+{
+    Printf ("*");
+}
+Printf ("\n");
+}
+return 0;
+}
